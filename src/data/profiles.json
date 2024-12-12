@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Om Raj",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFFvyJh910XZQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693551388447?e=1739404800&v=beta&t=Vr7Gfnt3LLNvJB50MhpzbhGVpeSxcEChMrH0IUSk-wc",
+    "description": "Software Developer",
+    "address": "Chand Choura, Gaya, Bihar"
+  },
+  {
+    "id": 2,
+    "name": "Abhishek Ranjan",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQFxEJ2d1-VCMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726933686255?e=1739404800&v=beta&t=6vEX7lVcHk1XpCnQVifGdls79WeRc3ykNW6rcbnGcEo",
+    "description": "Master Chef",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 3,
+    "name": "Amrit Raj",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQFB0s_Y5zerOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690602211582?e=1739404800&v=beta&t=HMV86a5mvqby5zr08tZ5BV7qOi4lqXS9LpFd3W-aOVU",
+    "description": "Software Engineer",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 4,
+    "name": "Ritik Ranjan",
+    "photo": "https://media.licdn.com/dms/image/v2/D5635AQEsIqPlaeR8iw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725804066100?e=1734588000&v=beta&t=W0KPYUx9Eqc3RJyLOxXvCjuFA0G2n_0g3ErBUkgnnDw",
+    "description": "Web Developer",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 5,
+    "name": "Prince Pandey",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFwkjRWZVeZnA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704902452886?e=1739404800&v=beta&t=NmiI3Ga64tP_H_brX9sF1Fb_btEkoh107sJJF5wJoGc",
+    "description": "Coder",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 6,
+    "name": "Sudhanshu Singh",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQFTjojuv68nDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719593163914?e=1739404800&v=beta&t=LOAuPEjKs6A94LIczjVmL6cE_b5lIUbdJN_g1U1AzWw",
+    "description": "Software Engineer",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 7,
+    "name": "Raman Raj",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQGTjGupjBpq2Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727961442120?e=1739404800&v=beta&t=XgzmC0MqAw8Lh_uuQtlyQHQr-jujwK1oXF_4yWkqjJU",
+    "description": "Data Analyst",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 8,
+    "name": "Vikash Kumar",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQECADQeD1rNpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730726280810?e=1739404800&v=beta&t=PlRgkf4EKkE_7Pa4qPKj4TWyLFzruF1rvhcTWScCGvA",
+    "description": "Data Engineer",
+    "address": "Brahmaputra Hostel, Mahendru, Patna, Bihar"
+  },
+  {
+    "id": 9,
+    "name": "Bruce Wayne",
+    "photo": "https://64.media.tumblr.com/99a74bbf688e68df25a3ab1f05ee214e/c51f9491a8dbcd24-16/s400x600/7a4052d1bb476bc12fac0a4450b12dfbb76f1307.png",
+    "description": "CEO of Wayne Enterprises",
+    "address": "80 Green Wrythe Lane, Carshalton"
+  },
+  {
+    "id": 10,
+    "name": "Narendra Modi",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHElqo2BcNgyw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730290871844?e=1739404800&v=beta&t=7mqZXZJVUGN2ggH259UbW803YeaFWgiIcg-WtkD-il8",
+    "description": "Prime Minister of India",
+    "address": "7, Lok Kalyan Marg, New Delhi"
+  },
+  {
+    "id": 11,
+    "name": "Amit Shah",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amit_Shah_photographed_during_the_first_Union_Cabinet_Meeting_of_the_18th_Lok_Sabha_%28cropped%29.jpg/330px-Amit_Shah_photographed_during_the_first_Union_Cabinet_Meeting_of_the_18th_Lok_Sabha_%28cropped%29.jpg",
+    "description": "Home Minister of India",
+    "address": "7, Lok Kalyan Marg, New Delhi"
+  },
+  {
+    "id": 12,
+    "name": "Anupam Mittal",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQH-UEtOFzyzKQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684481062551?e=1739404800&v=beta&t=p6wc0Y7aqJxvDwho39h8ELvecCy9B96uOhghpmrzKw8",
+    "description": "CEO of Shaadi.com",
+    "address": "Ground Floor, Film Center Building, 68 Tardeo Road, Mumbai"
+  },
+  {
+    "id": 13,
+    "name": "Deepinder Goyal",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGIpp6XhS_LyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636454470802?e=1739404800&v=beta&t=NjKD6TIAiOQKfcJhofoFSQSIdvlqz6PM9inE9_NAJFk",
+    "description": "CEO of Zomato",
+    "address": "94 Meghdoot Nehru Place, New Delhi"
+  },
+  {
+    "id": 14,
+    "name": "Kiran Kumar Chinta",
+    "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHImI9DPQXZ-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516549151252?e=1739404800&v=beta&t=EosaB22KnH7oOokXsjIMOApmCxAD2-RutKe1ZrhhN5M",
+    "description": "CEO of InfoEdge",
+    "address": "B-8, Sector-132, Noida"
+  },
+  {
+    "id": 15,
+    "name": "Aman Gupta",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFVEEFxxCQMVQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689877352229?e=1739404800&v=beta&t=F-mRZ7HMfPF6sbR_EWsykkxPkMPRCAM6zVAy-gHjIss",
+    "description": "CEO of Boat Lifestyle",
+    "address": "Udyog Vihar II Rd, Udyog Vihar, Sector 20, Gurugram"
+  },
+  {
+    "id": 16,
+    "name": "Peyush Bansal",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGplZVlvKJg7g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1672947834159?e=1739404800&v=beta&t=-8b9Wy9U4pRGrQhw4Zx9WKfob9M_FA7bq_gsnMmaoKw",
+    "description": "CEO of Lenskart",
+    "address": "Vatik Mindscapes Building, 7th Floor, Mathura Road, Faridabad"
+  },
+  {
+    "id": 17,
+    "name": "Sriharsha Majety",
+    "photo": "https://media.licdn.com/dms/image/v2/C4D03AQFZsa4cXDZ9wA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516770851190?e=1739404800&v=beta&t=JNNOQYs-oXnZBhiuMLjdCFtSDkjMeXCf29n-kHfRgFg",
+    "description": "CEO of Swiggy",
+    "address": "Ground Floor, Embassy TechVillage, I & J Block, No. 55, Varthur, Karnataka"
+  },
+  {
+    "id": 18,
+    "name": "Ava Lewis",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCork-5qLrs7wXRsRfURPhEJktk5vPlxsxA&usqp=CAU",
+    "description": "Product Designer",
+    "address": "1515 Fir Road, Denver, CO"
+  },
+  {
+    "id": 19,
+    "name": "Albinder Dhindsa",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHcYJgtBN7DYw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673586480307?e=1739404800&v=beta&t=TL0Zkn_DTAw_VJZsd2SpNo1RGxBB3fRt1Ivpswv0kuA",
+    "description": "CEO of Swiggy Blinkit",
+    "address": "Ground Floor, Pioneer Square, Sector 62, Golf Course Extension Road, Gurugram"
+  },
+  {
+    "id": 20,
+    "name": "Shashank ND",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHBn5EQIjRZxg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731744376374?e=1739404800&v=beta&t=fAGKESQulQ6qOPtdHKz7gvnCg4JUCRjupSWgI4NvSf0",
+    "description": "CEO of Practo",
+    "address": "RPS Green Space, No. 165/5, 1st Main, J.P Nagar, Bangalore"
+  },
+  {
+    "id": 21,
+    "name": "Aadit Palicha",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFDKjH0dBJ69A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700381852144?e=1739404800&v=beta&t=25VYiTlHgP35FXWOy3-1fDRjfx-KoPRKt1FrTkS1OWA",
+    "description": "CEO ofepto",
+    "address": "Total Mall, Sarjapur, Bengaluru"
+  }
+]
